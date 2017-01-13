@@ -1,0 +1,17 @@
+{
+  "name": "pink",
+  "version": "1.0.0",
+  "description": "",
+  "main": "animalxing.js",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  },
+  "devDependencies": {
+    "chalk": "^1.1.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
